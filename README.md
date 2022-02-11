@@ -7,7 +7,7 @@ Hello there, you might have seen the Groww Website, where investors can trade an
 Moving ahead, we team 24 at Masai School developed a clone of the website of Groww within a week as a part of our curriculum.
 This blog is all about our journey and the challenges we faced while building the project.
 
-<hr>
+
 What was our problem statement and how did I approach it:-
 So we had a problem statement that we have to create a clone of a website called groww.com .<br>
 Also, We can only use my HTML, CSS, and core JavaScript knowledge. We were five members in our group.
@@ -31,7 +31,7 @@ responsible for making the Product page and navigation bar and script part which
 And my other team members were responsible for the login page, landing page, and Cart page and make the page look better.
 
 <b>Technology used:</b>
-<hr>
+
 <b>HTML</b>
 Used to build the basic structure of the cloned site. All the headings, paragraphs, links, forms, etc were structured by HTML.
 
