@@ -1,6 +1,5 @@
 Building the clone of the Groww Website.
 <hr>
-<b>Description<b>
 This project involves around trading platform, Where a user can find details about various companies which are enlisited on national
 stock exchange and find details about companies providing ipo, From this platform user can invest into multiple stocks and mutual funds.
 Hello there, you might have seen the Groww Website, where investors can trade and invest in Stocks and Mutual funds..
